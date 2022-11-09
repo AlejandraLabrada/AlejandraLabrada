@@ -19,3 +19,6 @@
 ➪ Modeling of a laboratory.<br/>
 ➪ Design of a mini-sumo robot in Eagle (AutoDesk).<br/>
 ➪ Design of my Web site.<br/>
+➪ Develop a mini-game "Catch them all snack!" over Unity.<br/>
+➪ Develop a "Othello" game in Processing.<br/>
+➪ Develop a "Baymax chatbot" in Discord.<br/>
