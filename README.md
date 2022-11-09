@@ -1,5 +1,5 @@
 <h1>Hello there! 👋</h1>
-<h4><i>I’m @AlejandraLabrada, i'm intern of Computer Science in Facultad de Ciencias, UNAM.</i> </h4><br/>
+<h4><i>I’m @YaheniLabrada, i'm intern of Computer Science in Facultad de Ciencias, UNAM.</i> </h4><br/>
 ✧ I’m interested in AI, Neural Network and Robotics.<br/>
 ✧ I’m currently taking an advanced course of Python.<br/>
 ✧ I’m looking to collaborate on any project of AI.</br>
